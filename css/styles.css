@@ -1,0 +1,12 @@
+h1 {
+  font-weight: bold;
+  color: blue;
+}
+.jumbotron h1 {
+  font-weight: normal;
+  color: blue;
+}
+h3 {
+  text-transform: uppercase;
+  color: blue;
+}
